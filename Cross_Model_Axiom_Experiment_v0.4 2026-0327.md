@@ -1,5 +1,5 @@
 # Cross-Model Axiom Experiment Package
-**Version 0.3 — Ready to Run**
+**Version 0.4 — Ready to Run**
 *Designed by: Ai Chen (艾晨) + Claude (Anthropic) + ChatGPT (OpenAI)*
 
 ---
